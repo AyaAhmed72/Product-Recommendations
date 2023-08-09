@@ -1,2 +1,2 @@
 # Product-Recommendations
-Build a machine learning model that can recommend products to users based on their past behaviour and preferences. 
+The project is about building a machine-learning model to recommend products to users based on their past behavior and preferences. 
